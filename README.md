@@ -9,6 +9,4 @@ Aplicativo de cálulo de IMC desenvolvido em Swift.
 -  Cálculo de IMC ( Índice de Massa Corporal ).
 
 ## Screenshots
-Em breve
-## GIF demonstrativo
-Em breve
+![print1](https://github.com/user-attachments/assets/1a3ab318-1f28-4f11-84b7-b039ed933326)
